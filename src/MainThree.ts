@@ -5,7 +5,6 @@ import { AssetsId } from "./constants/AssetsId";
 import { AssetsManager } from "./managers/AssetsManager";
 import { DomElements } from "./constants/DomElements";
 import { ExtendedObject3D } from "./utils/ExtendedObject3D";
-import { MaskEffect } from '@/postprocessing/MaskEffect';
 import { PixelationEffect } from '@/postprocessing/PixelationEffect';
 import { Ticker } from "./utils/Ticker";
 
