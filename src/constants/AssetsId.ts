@@ -1,0 +1,5 @@
+export enum AssetsId {
+  GLB_MONSTERA = 'GLB_MONSTERA',
+  HDR_DEFAULT = 'HDR_DEFAULT',
+  TEXTURE_GLASS = 'TEXTURE_GLASS',
+};
